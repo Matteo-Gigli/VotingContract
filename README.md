@@ -2,7 +2,7 @@
 
 <h2>📃 Project</h2>
 
-<h4>The idea is to have a Voting system, moved from a token(ERC20) used for the votation.</h4>
+<h4>The idea is to have a simple Voting system, moved from a token(ERC20) used for the votation.</h4>
 <h4>We have 3 different contracts</h4>
 <br>
 
@@ -28,4 +28,8 @@
 
 <h2>🔎 VotingInfo.sol</h2>
 <h4>This is the Voting Info Contract.</h4>
-<h4>As usual we have a function to initialize Voting contract.</h4>
+<h4>As usual we have a function to initialize Voting contract and some usefull functions to get and set info</h4>
+
+
+<h2>🔨 Built with</h2>
+<h4>Solidity, Hardhat</h4>
