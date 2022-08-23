@@ -1,5 +1,3 @@
-#Voting-Contract
-
 <h2>📃 Project</h2>
 
 <h4>The idea is to have a simple Voting system, moved from a token(ERC20) used for the votation.</h4>
